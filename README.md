@@ -3,4 +3,4 @@ This is implementation of Caesar cipher which shifts characters and letters by s
 
 Here is example of some output for this script:
 
-![output](caeserCipher.PNG)
+![output](caeserCipher2.png)
