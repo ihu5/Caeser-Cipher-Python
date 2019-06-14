@@ -1,5 +1,5 @@
 """
-Author @journey6 (Hussain)
+Author @journey6
 Github link: https://github.com/journey6/
 this is implementation of Caesar cipher which shifts characters and letters by specific number positive or negative
 """
