@@ -1,6 +1,6 @@
 """
-Author @journey6
-Github link: https://github.com/journey6/
+Author @ihu5
+Github link: https://github.com/ihu5/
 this is implementation of Caesar cipher which shifts characters and letters by specific number positive or negative
 """
 import cipher
